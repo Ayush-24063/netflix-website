@@ -12,10 +12,10 @@ Click below to view the live version of this project:
 
 ## 🖼️ Screenshots
 
+![Website Screenshot](web1.png)
+![Website Screenshot](web2.png)
 
-(web1.png)
 
-(web2.png)
 
 
 ## 🧰 Technologies Used
