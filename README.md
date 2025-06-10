@@ -8,7 +8,7 @@ This is a replica of the Netflix homepage, built using HTML and CSS as a front-e
 
 Click below to view the live version of this project:
 
-👉 [https://ayush-24063.github.io/netflix-website/](https://ayush-24063.github.io/netflix-website/)
+👉(https://ayush-24063.github.io/netflix-website/)
 
 ## 🖼️ Screenshots
 
