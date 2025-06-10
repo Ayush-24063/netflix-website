@@ -1,0 +1,29 @@
+# 🎬 Netflix Homepage Replica
+
+This is a replica of the Netflix homepage, built using HTML and CSS as a front-end development practice project.
+
+---
+
+## 🌐 Live Website
+
+Click below to view the live version of this project:
+
+👉 [https://ayush-24063.github.io/netflix-website/](https://ayush-24063.github.io/netflix-website/)
+
+## 🖼️ Screenshots
+
+
+(web1.png)
+
+(web2.png)
+
+
+## 🧰 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- Responsive design techniques
+- Custom image assets
+
+---
+
